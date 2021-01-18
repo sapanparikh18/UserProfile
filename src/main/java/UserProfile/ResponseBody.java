@@ -1,5 +1,5 @@
 package UserProfile;
 
-public class Response {
+public class ResponseBody {
     public Status status;
 }

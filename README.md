@@ -1,4 +1,4 @@
-## Feature http-client documentation
+## OutsideIn TDD using micronaut framework
 
-- [Micronaut Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+This is a sample application created while solving a simple user profile kata.
 

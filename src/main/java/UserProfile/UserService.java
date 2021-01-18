@@ -11,7 +11,7 @@ public class UserService {
         this.userRepo = userRepo;
     }
 
-    public Response save(User user) {
+    public ResponseBody save(User user) {
         return userRepo.save(user);
     }
 }

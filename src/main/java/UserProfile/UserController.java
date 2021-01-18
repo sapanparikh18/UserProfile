@@ -13,7 +13,7 @@ public class UserController {
     }
 
     @Post()
-    public Response save(@Body User user) {
+    public ResponseBody save(@Body User user) {
         return userService.save(user);
     }
 }
